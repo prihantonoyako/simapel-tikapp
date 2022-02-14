@@ -1,0 +1,40 @@
+CI_ENVIRONMENT = development
+
+app.baseURL = 'http://simapel-tikapp.test/'
+# app.forceGlobalSecureRequests = false
+
+# app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
+# app.sessionCookieName = 'ci_session'
+# app.sessionExpiration = 7200
+# app.sessionSavePath = 'WRITEPATH' . 'session'
+# app.sessionMatchIP = false
+# app.sessionTimeToUpdate = 300
+# app.sessionRegenerateDestroy = true
+
+# app.CSPEnabled = false
+
+database.default.hostname = localhost
+database.default.database = simapel-tikapp-new
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+
+cookie.prefix = ''
+cookie.expires = 0
+cookie.path = '/'
+cookie.domain = ''
+cookie.secure = false
+cookie.httponly = false
+cookie.samesite = 'Lax'
+cookie.raw = false
+
+# security.tokenName = 'csrf_token_name'
+# security.headerName = 'X-CSRF-TOKEN'
+# security.cookieName = 'csrf_cookie_name'
+# security.expires = 7200
+# security.regenerate = true
+# security.redirect = false
+# security.samesite = 'Lax'
+
+logger.threshold = 4

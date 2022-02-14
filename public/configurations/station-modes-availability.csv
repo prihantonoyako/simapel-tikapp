@@ -1,0 +1,6 @@
+mode,802.11,nstreme,nv2
+station,true,true,true
+station-wds,false,true,true
+station-pseudobridge,true,true,false
+station-pseudobridge-clone,true,true,false
+station-bridge,false,true,true

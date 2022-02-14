@@ -1,0 +1,3 @@
+mikrotik,station,station-wds,ap-bridge,bridge,nstreme-dual-slave,wds-slave,station-pseudobridge,station-pseudobridge-clone,station-bridge
+cisco,access-point,root-bridge,non-root-bridge,root-bridge-with-wireless-client
+general,access-point,station,bridge
